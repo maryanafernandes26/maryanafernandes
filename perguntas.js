@@ -1,23 +1,25 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Sociologia',
+    'Quem são alguns dos principais sociólogos clássicos?
+',
+    'Karl Marx, Max Weber e Émile Durkheim. '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o menor país do mundo?',
+    'Vaticano'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é um loop?',
+    'Uma estrutura de controle que permite repetir um bloco de código várias vezes. '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Qual o nome do navegador português que chegou ao Brasil?
+',
+    'Pedro Álvares Cabral.'
 )
